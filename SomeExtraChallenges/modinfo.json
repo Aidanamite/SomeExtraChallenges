@@ -1,0 +1,11 @@
+{
+  "id": "someextrachallenges",
+  "name": "Some Extra Challenges",
+  "author": "Aidanamite",
+  "description": "Just a small addon for the Challenges mod",
+  "version": "1.0.2",
+  "load_after": [ "challenges" ],
+  "dependencies": {
+    "challenges": "1.0.0"
+  }
+}
